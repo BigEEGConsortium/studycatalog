@@ -1,0 +1,8 @@
+title: EEG Study Catalog
+description: Find well-documented EEG studies (in ESS standard format) across the web
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
